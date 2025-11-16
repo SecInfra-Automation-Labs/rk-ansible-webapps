@@ -1,6 +1,6 @@
 # rk-ansible-webapps
 
-This repo. is used to create a simple node.js app on the appserver.
+This repo. is used to create a simple node.js app on the appserver without mysql database.
 The appserver is created using Vagrant from ansible_chap2 (another project).
 
 The app.js is added manually afterwards and tested from the ansible control node
