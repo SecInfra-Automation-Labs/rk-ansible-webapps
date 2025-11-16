@@ -7,4 +7,4 @@ The app.js is added manually afterwards and tested from the ansible control node
 using curl http://192.168.56.5:3000.
 
 This project also contains sample mysql configuration for future use (this is in fact
-used in the next repo : rk-nodjs-app.
+used in the next repo : rk-nodjs-app.)
